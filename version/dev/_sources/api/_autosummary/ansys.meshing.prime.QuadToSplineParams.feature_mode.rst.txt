@@ -1,0 +1,6 @@
+feature\_mode
+=============
+
+.. currentmodule:: ansys.meshing.prime
+
+.. autoproperty:: QuadToSplineParams.feature_mode

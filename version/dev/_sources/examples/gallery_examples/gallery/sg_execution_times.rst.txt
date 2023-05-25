@@ -1,0 +1,23 @@
+
+:orphan:
+
+.. _sphx_glr_examples_gallery_examples_gallery_sg_execution_times:
+
+
+Computation times
+=================
+**06:44.611** total execution time for **examples_gallery_examples_gallery** files:
+
++-----------------------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_examples_gallery_examples_gallery_lucid_toy_car.py` (``lucid_toy_car.py``)           | 03:41.602 | 0.0 MB |
++-----------------------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_examples_gallery_examples_gallery_lucid_pipe_tee.py` (``lucid_pipe_tee.py``)         | 01:15.152 | 0.0 MB |
++-----------------------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_examples_gallery_examples_gallery_blade_morph.py` (``blade_morph.py``)               | 00:35.542 | 0.0 MB |
++-----------------------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_examples_gallery_examples_gallery_pcb_stacker.py` (``pcb_stacker.py``)               | 00:32.088 | 0.0 MB |
++-----------------------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_examples_gallery_examples_gallery_bracket_scaffold.py` (``bracket_scaffold.py``)     | 00:20.560 | 0.0 MB |
++-----------------------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_examples_gallery_examples_gallery_lucid_mixing_elbow.py` (``lucid_mixing_elbow.py``) | 00:19.668 | 0.0 MB |
++-----------------------------------------------------------------------------------------------------+-----------+--------+

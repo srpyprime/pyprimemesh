@@ -1,0 +1,132 @@
+
+
+.. _sphx_glr_examples_gallery_examples_gallery:
+
+Examples
+========
+Here are a series of mesh preparation examples using PyPrimeMesh.
+
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Summary: This example demonstrates how to morph a structural hexahedral mesh of a turbine blade...">
+
+.. only:: html
+
+  .. image:: /examples/gallery_examples/gallery/images/thumb/sphx_glr_blade_morph_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_gallery_examples_gallery_blade_morph.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Morphing a hexahedral mesh of a turbine blade to a new shape</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Summary: This example demonstrates how to use topology-based connection to generate conformal s...">
+
+.. only:: html
+
+  .. image:: /examples/gallery_examples/gallery/images/thumb/sphx_glr_bracket_scaffold_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_gallery_examples_gallery_bracket_scaffold.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Meshing a mid-surfaced bracket for a structural analysis</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Summary: This example demonstrates how to mesh a mixing elbow for a flow analysis.">
+
+.. only:: html
+
+  .. image:: /examples/gallery_examples/gallery/images/thumb/sphx_glr_lucid_mixing_elbow_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_gallery_examples_gallery_lucid_mixing_elbow.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Meshing a mixing elbow for a flow analysis</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Summary: This example demonstrates how to mesh a pipe T-section for both structural thermal and...">
+
+.. only:: html
+
+  .. image:: /examples/gallery_examples/gallery/images/thumb/sphx_glr_lucid_pipe_tee_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_gallery_examples_gallery_lucid_pipe_tee.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Meshing a pipe T-section for structural thermal and fluid flow analysis</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Summary: This example demonstrates how to wrap a toy car for a flow analysis.">
+
+.. only:: html
+
+  .. image:: /examples/gallery_examples/gallery/images/thumb/sphx_glr_lucid_toy_car_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_gallery_examples_gallery_lucid_toy_car.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Wrapping a toy car for a flow analysis</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Summary: This example demonstrates how to mesh a PCB (printed circuit board) for structural the...">
+
+.. only:: html
+
+  .. image:: /examples/gallery_examples/gallery/images/thumb/sphx_glr_pcb_stacker_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_gallery_examples_gallery_pcb_stacker.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Meshing a PCB for structural thermal analysis</div>
+    </div>
+
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /examples/gallery_examples/gallery/blade_morph
+   /examples/gallery_examples/gallery/bracket_scaffold
+   /examples/gallery_examples/gallery/lucid_mixing_elbow
+   /examples/gallery_examples/gallery/lucid_pipe_tee
+   /examples/gallery_examples/gallery/lucid_toy_car
+   /examples/gallery_examples/gallery/pcb_stacker
+

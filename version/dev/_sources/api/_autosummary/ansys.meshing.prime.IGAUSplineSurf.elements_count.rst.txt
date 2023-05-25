@@ -1,0 +1,6 @@
+elements\_count
+===============
+
+.. currentmodule:: ansys.meshing.prime
+
+.. autoproperty:: IGAUSplineSurf.elements_count
